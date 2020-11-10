@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Oct 22 23:32:43 2020
+
+@author: lenovo
+"""
+
+{
+{"username":"","password":""},
+{"username":"","password":"123"},
+{"username":"user","password":""},
+{"username":"error","password":"error"},
+{"username":"admin","password":"admin123"},
+}
