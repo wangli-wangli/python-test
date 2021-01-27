@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 28 00:13:55 2020
-
-@author: lenovo
-"""
 
 import unittest
 from time import sleep
@@ -43,6 +38,7 @@ class TestBaidu(unittest.TestCase):
 
 if __name__=='__main__':
     unittest.main(verbosity=2)
+
     
         
         
