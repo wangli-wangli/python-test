@@ -28,7 +28,7 @@ att["Content-Disposition"]='"attachment;filename="log.txt"'
 msg=MIMEMultipart()
 msg["Subject"]=subject
 msg.attach(att)
- 
+#登录密码：2024410102
 #发送邮件
 msg['from'] = 'wl15176128570@126.com'
 msg['to'] = '15176128570@139.com'
